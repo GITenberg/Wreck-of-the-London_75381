@@ -1,0 +1,37 @@
+_repo: Wreck-of-the-London_75381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+edition_note: Second Edition, Revised.
+gutenberg_issued: '2025-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75381'
+language: en
+pgterms:marc904: https://archive.org/details/wreckoflondon00lond
+pgterms:marc905: 20240516043411author
+pgterms:marc906: '1866'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bS. W. Partridge, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'London (Steamship)'
+- !lcc 'VK'
+- GITenberg
+title: Wreck of the "London."
+url: http://www.gutenberg.org/ebooks/75381
